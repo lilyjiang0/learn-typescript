@@ -1,4 +1,5 @@
 class Customer {
+    // Default public.
     firstName: string;
     lastName: string;
 
